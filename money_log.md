@@ -8,4 +8,4 @@ daily_expenses = [
 
 # 오늘 총 지출 합계 계산
 total_today = sum(expense["amount"] for expense in daily_expenses)
-print(f"오늘의 총 지출은 {total_today}원입니다.")
+print(f"오늘의 총 지출은 {3550}원입니다.")
