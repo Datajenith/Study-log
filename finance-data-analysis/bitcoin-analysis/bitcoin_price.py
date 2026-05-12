@@ -9,6 +9,6 @@ plt.title('Bitcoin Price Trend')
 plt.xlabel('Date')
 plt.ylabel('Price (USD)')
 plt.grid()
-
-plt.show()
 plt.savefig('bitcoin_price.png')
+plt.show()
+
