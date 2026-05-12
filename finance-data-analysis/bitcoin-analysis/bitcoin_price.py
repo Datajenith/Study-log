@@ -11,3 +11,4 @@ plt.ylabel('Price (USD)')
 plt.grid()
 
 plt.show()
+plt.savefig('bitcoin_price.png')
