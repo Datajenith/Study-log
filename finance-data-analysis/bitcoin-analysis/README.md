@@ -1,5 +1,8 @@
 Bitcoin Price Trend Analysis
 
+![Bitcoin Price](bitcoin_price_trend.png)
+
+
 * Objective
 비트코인 가격 흐름을 시각화하여 시장의 주요 변동 구간을 파악한다.
 
@@ -20,4 +23,4 @@ Period: 2023 ~
 해당 급등 구간은 시장 유동성 증가, 금리 기대 변화, 또는 기관 투자 유입 등의 영향으로 해석할 수 있다.
 비트코인은 거시경제 변수와 시장 심리에 크게 영향을 받는 자산임을 확인할 수 있다.
 따라서 단순 가격 추적뿐 아니라 금리, 인플레이션 등 외부 데이터와 함께 분석할 필요가 있다.
-![Bitcoin Price](bitcoin_price_trend.png)
+
